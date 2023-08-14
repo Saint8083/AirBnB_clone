@@ -26,3 +26,4 @@ Web framework - templating
 create your first web server in Python
 make your static HTML file dynamic by using objects stored in a file or database
 
+![cb778ec8a13acecb53ef](https://github.com/Saint8083/AirBnB_clone/assets/122878923/549e1ce9-e6b3-480b-b1cb-0b4eb02de596)
